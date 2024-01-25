@@ -10,3 +10,6 @@ persist.radio.multisim.config=dsds
 
 # USB
 vendor.usb.product_string=realme GT 5G
+
+# Fingerprint
+persist.vendor.fp.template_updateflag=V1
